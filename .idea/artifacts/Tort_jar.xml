@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tort:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Tort.jar">
+      <element id="module-output" name="Class-Signup" />
+    </root>
+  </artifact>
+</component>
